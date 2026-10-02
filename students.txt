@@ -1,0 +1,5 @@
+101,sahithi,sahithi@gmail.com,94.0,95,ACTIVE
+102,vyshnavi,vyshu@gmail.com,89.0,92,COMPLETED
+103,anjali,anjali@gmail.com,92.0,96,ACTIVE
+104,thanvi,thanvi@gmail.com,87.0,90,INACTIVE
+105,nikitha,nikitha@gmail.com,97.0,98,ACTIVE
